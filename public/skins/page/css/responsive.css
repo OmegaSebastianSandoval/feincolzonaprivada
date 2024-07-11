@@ -1,0 +1,39 @@
+@media (width <992px) {
+    
+    /* -------------------
+  HEADER INICIO
+  -------------------- */
+  header .vr {
+    display: none;
+}
+
+header .navbar .nav-item {
+
+    justify-content: start;
+    /* border-right: 1px solid #ffffff3d; */
+}
+
+header .navbar-nav .dropdown-menu {
+    position: absolute;
+}
+
+header p:first-child {
+
+    line-height: 1;
+    text-align: center;
+}
+
+.welcome-text {
+    font-size: 25px;
+
+}
+
+.highlight {
+    font-size: 18px;
+}
+
+/* -------------------
+HEADER FIN
+-------------------- */
+
+}
